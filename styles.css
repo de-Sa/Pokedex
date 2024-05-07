@@ -1,0 +1,82 @@
+h1{
+    color: blue ;
+    font-size: larger;
+}
+.header{
+    color: black;
+    font-size: larger;
+}
+
+.folder{
+    color: azure;
+    font-size: larger;
+}
+.fogo{
+    color: red;
+    font-size: larger;
+}
+.agua{
+    color: blue;
+    font-size: larger;
+}
+.grama{
+    color: green;
+    font-size: larger;
+}
+.terra{
+    color: burlywood;
+    font-size: larger;
+}
+.card{
+    border-color: grey;
+    border-width: 1px;
+    border-style: solid;
+    width: 30%;
+}
+
+h1{
+    color: blue;
+    font-size: larger; 
+}
+
+.header{
+    color: black;
+    font-size: larger; 
+}
+
+.footer{
+    color: azure;
+    font-size: larger; 
+}
+
+.agua{
+    color: azure;
+    font-size: larger; 
+}
+
+.fogo{
+    color: orange;
+    font-size: larger; 
+}
+
+.grama{
+    color: greenyellow;
+    font-size: larger; 
+}
+
+.terra{
+    color: burlywood;
+    font-size: larger; 
+}
+
+.card{
+    border-color: grey;
+    border-width: 1px;
+    border-style: solid;
+    width: 30%;
+}
+
+#conteudo-pokemon{
+    display: flex;
+    flex-wrap: wrap;
+}
